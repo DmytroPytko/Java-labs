@@ -42,32 +42,32 @@ public class Main {
                     String type = scanner.nextLine();
                     //scanner.close();
                     if (type.equals("Mammals") || type.equals("MAMMALS") || type.equals("mammals")) {
-                        System.out.println(store.searchPetByType(Types.MAMMALS).toString());
+                        System.out.println(store.searchPetByTypeSortedByFoodType(Types.MAMMALS).toString());
                     } else if (type.equals("Birds") || type.equals("BIRDS") || type.equals("birds")) {
-                        System.out.println(store.searchPetByType(Types.BIRDS).toString());
+                        System.out.println(store.searchPetByTypeSortedByFoodType(Types.BIRDS).toString());
                     } else if (type.equals("AMPHIBIANS") || type.equals("Amphibians") || type.equals("amphibians")) {
-                        System.out.println(store.searchPetByType(Types.AMPHIBIANS).toString());
+                        System.out.println(store.searchPetByTypeSortedByFoodType(Types.AMPHIBIANS).toString());
                     } else if (type.equals("REPTILES") || type.equals("Reptiles") || type.equals("reptiles")) {
-                        System.out.println(store.searchPetByType(Types.REPTILES).toString());
+                        System.out.println(store.searchPetByTypeSortedByFoodType(Types.REPTILES).toString());
                     } else if (type.equals("Fish") || type.equals("FISH") || type.equals("fish")) {
-                        System.out.println(store.searchPetByType(Types.FISH).toString());
+                        System.out.println(store.searchPetByTypeSortedByFoodType(Types.FISH).toString());
                     } else if (type.equals("Insects") || type.equals("INSECTS") || type.equals("insects")) {
-                        System.out.println(store.searchPetByType(Types.INSECTS).toString());
+                        System.out.println(store.searchPetByTypeSortedByFoodType(Types.INSECTS).toString());
                     } else if (type.equals("CRUSTACEANS") || type.equals("Crustaceans") || type.equals("crustaceans")) {
-                        System.out.println(store.searchPetByType(Types.CRUSTACEANS).toString());
+                        System.out.println(store.searchPetByTypeSortedByFoodType(Types.CRUSTACEANS).toString());
                     } else if (type.equals("MOLLUSKS") || type.equals("Mollusks") || type.equals("mollusks")) {
-                        System.out.println(store.searchPetByType(Types.MOLLUSKS).toString());
+                        System.out.println(store.searchPetByTypeSortedByFoodType(Types.MOLLUSKS).toString());
                     } else if (type.equals("SPIDERSHAPED") || type.equals("Spidershaped") || type.equals("spidershaped")) {
-                        System.out.println(store.searchPetByType(Types.SPIDERSHAPED).toString());
+                        System.out.println(store.searchPetByTypeSortedByFoodType(Types.SPIDERSHAPED).toString());
                     }
                     break;
                 }
                 case 3: {
-                    System.out.println(store.sortByFoodType().toString());
+                    System.out.println(store.sortByFoodType(store.getPets()).toString());
                     break;
                 }
                 case 4: {
-                    System.out.println(store.sortByNumberOfFood().toString());
+                    System.out.println(store.sortByNumberOfFood(store.getPets()).toString());
                     break;
                 }
                 case 5:

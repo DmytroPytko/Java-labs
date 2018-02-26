@@ -1,11 +1,11 @@
 package com.company;
 
-
 import java.util.Comparator;
 import java.util.LinkedList;
 import java.util.List;
 
 public class PetStore {
+
     private List<Pet> pets = new LinkedList();
 
     public void setPets(List<Pet> pets) {
@@ -16,9 +16,10 @@ public class PetStore {
         return this.pets;
     }
 
-    public PetStore() {}
+    public PetStore() {
+    }
 
-    public  PetStore (List<Pet> pets){
+    public PetStore(List<Pet> pets) {
         this.pets = pets;
 
     }
@@ -27,32 +28,29 @@ public class PetStore {
         pets.add(addPet);
     }
 
-
-
-    public List<Pet> sortByFoodType() {
-        pets.sort(Comparator.comparing(Pet :: getFoodTypes));
-        return pets;
+    public List<Pet> sortByFoodType(List<Pet> petsToSort) {
+        petsToSort.sort(Comparator.comparing(Pet::getFoodTypes));
+        return petsToSort;
     }
 
-    public List<Pet> sortByNumberOfFood() {
-        pets.sort(Comparator.comparing(Pet :: getNumberOfFood));
-        return pets;
+    public List<Pet> sortByNumberOfFood(List<Pet> petsToSort) {
+        petsToSort.sort(Comparator.comparing(Pet::getNumberOfFood));
+        return petsToSort;
     }
 
-    public List<Pet> searchPetByType(Types typeToFind){
+    public List<Pet> searchPetByTypeSortedByFoodType(Types typeToFind) {
+        return sortByFoodType(searchPetsByType(typeToFind));
+    }
+
+    private List<Pet> searchPetsByType(Types typeToFind) {
         List<Pet> result = new LinkedList<>();
-        for (Pet pet : pets ) {
+        for (Pet pet : pets) {
             if (pet.getTypes().equals(typeToFind)) {
                 result.add(pet);
             }
-
         }
         return result;
     }
 
 
-
 }
-
-
-
