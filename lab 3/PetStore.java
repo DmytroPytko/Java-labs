@@ -16,10 +16,9 @@ public class PetStore {
         return this.pets;
     }
 
-    public PetStore() {
-    }
+    public PetStore() {}
 
-    public PetStore(List<Pet> pets) {
+    public  PetStore(List<Pet> pets){
         this.pets = pets;
 
     }
@@ -29,27 +28,31 @@ public class PetStore {
     }
 
     public List<Pet> sortByFoodType(List<Pet> petsToSort) {
-        petsToSort.sort(Comparator.comparing(Pet::getFoodTypes));
+        petsToSort.sort(Comparator.comparing(Pet :: getFoodTypes));
         return petsToSort;
     }
 
     public List<Pet> sortByNumberOfFood(List<Pet> petsToSort) {
-        petsToSort.sort(Comparator.comparing(Pet::getNumberOfFood));
+        petsToSort.sort(Comparator.comparing(Pet :: getNumberOfFood));
         return petsToSort;
     }
 
-    public List<Pet> searchPetByTypeSortedByFoodType(Types typeToFind) {
+    public List<Pet> searchPetByTypeSortedByFoodType(Types typeToFind){
         return sortByFoodType(searchPetsByType(typeToFind));
     }
 
-    private List<Pet> searchPetsByType(Types typeToFind) {
+    private  List<Pet> searchPetsByType(Types typeToFind) {
         List<Pet> result = new LinkedList<>();
-        for (Pet pet : pets) {
+        for (Pet pet : pets ) {
             if (pet.getTypes().equals(typeToFind)) {
                 result.add(pet);
             }
         }
         return result;
+    }
+
+    public List<Pet> searchPetByTypeSortedByFoodNumber(Types typeToFind){
+        return sortByNumberOfFood(searchPetsByType(typeToFind));
     }
 
 
