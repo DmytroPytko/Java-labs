@@ -9,6 +9,26 @@ public class Pet {
     private AccomodationTypes accomodation;
 
 
+    public String getSpecies() {
+        return species;
+    }
+
+    public int getPrice() {
+        return price;
+    }
+
+    public Types getType() {
+        return type;
+    }
+
+    public FoodTypes getFood() {
+        return food;
+    }
+
+    public AccomodationTypes getAccomodation() {
+        return accomodation;
+    }
+
     public Pet(final String newSpecies, final Types newType,
                final int newPrice, final FoodTypes newFood,
                final int newNumberOfFood, final AccomodationTypes newAccomodation) {
@@ -17,6 +37,7 @@ public class Pet {
         setPrice(newPrice);
         setTypes(newType);
         setFoodTypes(newFood);
+
         setAccomodationTypes(newAccomodation);
 
     }
@@ -30,16 +51,8 @@ public class Pet {
 
     }
 
-    public final String getSpecies() {
-        return species;
-    }
-
     public final void setSpecies(final String newSpecies) {
         this.species = newSpecies;
-    }
-
-    public final int getPrice() {
-        return price;
     }
 
     public final void setPrice(final int newPrice) {
@@ -54,7 +67,6 @@ public class Pet {
         this.type = newType;
     }
 
-
     public final FoodTypes getFoodTypes() {
         return food;
     }
@@ -64,15 +76,11 @@ public class Pet {
 
     }
 
-    public final AccomodationTypes getAccomodation() {
-        return accomodation;
-    }
-
     public final void setAccomodationTypes(final AccomodationTypes newAccomodation) {
         this.accomodation = newAccomodation;
     }
 
-    public final int getNumberOfFood() {
+    public int getNumberOfFood() {
         return numberOfFood;
     }
 

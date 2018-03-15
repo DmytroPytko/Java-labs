@@ -1,0 +1,173 @@
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html id="htmlId">
+<head>
+  <title>Coverage Report :: Pet</title>
+  <style type="text/css">
+    @import "../../.css/coverage.css";
+  </style>
+</head>
+
+<body>
+<div class="header"></div>
+
+<div class="content">
+<div class="breadCrumbs">
+    [ <a href="../../index.html">all classes</a> ]
+    [ <a href="../index.html">ua.lviv.iot</a> ]
+</div>
+
+<h1>Coverage Summary for Class: Pet (ua.lviv.iot)</h1>
+
+<table class="coverageStats">
+<tr>
+  <th class="name">Class</th>
+<th class="coverageStat 
+">
+  Class, %
+</th>
+<th class="coverageStat 
+">
+  Method, %
+</th>
+<th class="coverageStat 
+">
+  Line, %
+</th>
+</tr>
+<tr>
+  <td class="name">Pet</td>
+<td class="coverageStat">
+  <span class="percent">
+    100%
+  </span>
+  <span class="absValue">
+    (1/ 1)
+  </span>
+</td>
+<td class="coverageStat">
+  <span class="percent">
+    68,8%
+  </span>
+  <span class="absValue">
+    (11/ 16)
+  </span>
+</td>
+<td class="coverageStat">
+  <span class="percent">
+    82,8%
+  </span>
+  <span class="absValue">
+    (24/ 29)
+  </span>
+</td>
+</tr>
+
+</table>
+
+<br/>
+<br/>
+
+
+<div class="sourceCode"><i>1</i>&nbsp;package ua.lviv.iot;
+<i>2</i>&nbsp;
+<i>3</i>&nbsp;public class Pet {
+<i>4</i>&nbsp;    private String species;
+<i>5</i>&nbsp;    private int numberOfFood; // in kgs
+<i>6</i>&nbsp;    private int price; // in hrn
+<i>7</i>&nbsp;    private Types type;
+<i>8</i>&nbsp;    private FoodTypes food;
+<i>9</i>&nbsp;    private AccomodationTypes accomodation;
+<i>10</i>&nbsp;
+<i>11</i>&nbsp;
+<i>12</i>&nbsp;    public String getSpecies() {
+<b class="fc"><i>13</i>&nbsp;        return species;</b>
+<i>14</i>&nbsp;    }
+<i>15</i>&nbsp;
+<i>16</i>&nbsp;    public int getPrice() {
+<b class="nc"><i>17</i>&nbsp;        return price;</b>
+<i>18</i>&nbsp;    }
+<i>19</i>&nbsp;
+<i>20</i>&nbsp;    public Types getType() {
+<b class="nc"><i>21</i>&nbsp;        return type;</b>
+<i>22</i>&nbsp;    }
+<i>23</i>&nbsp;
+<i>24</i>&nbsp;    public FoodTypes getFood() {
+<b class="nc"><i>25</i>&nbsp;        return food;</b>
+<i>26</i>&nbsp;    }
+<i>27</i>&nbsp;
+<i>28</i>&nbsp;    public AccomodationTypes getAccomodation() {
+<b class="nc"><i>29</i>&nbsp;        return accomodation;</b>
+<i>30</i>&nbsp;    }
+<i>31</i>&nbsp;
+<i>32</i>&nbsp;    public Pet(final String newSpecies, final Types newType,
+<i>33</i>&nbsp;               final int newPrice, final FoodTypes newFood,
+<b class="fc"><i>34</i>&nbsp;               final int newNumberOfFood, final AccomodationTypes newAccomodation) {</b>
+<b class="fc"><i>35</i>&nbsp;        setSpecies(newSpecies);</b>
+<b class="fc"><i>36</i>&nbsp;        setNumberOfFood(newNumberOfFood);</b>
+<b class="fc"><i>37</i>&nbsp;        setPrice(newPrice);</b>
+<b class="fc"><i>38</i>&nbsp;        setTypes(newType);</b>
+<b class="fc"><i>39</i>&nbsp;        setFoodTypes(newFood);</b>
+<i>40</i>&nbsp;
+<b class="fc"><i>41</i>&nbsp;        setAccomodationTypes(newAccomodation);</b>
+<i>42</i>&nbsp;
+<b class="fc"><i>43</i>&nbsp;    }</b>
+<i>44</i>&nbsp;
+<i>45</i>&nbsp;    @Override
+<i>46</i>&nbsp;    public final String toString() {
+<b class="nc"><i>47</i>&nbsp;        return &quot; Pet called &quot; + species + &quot; of type + &quot;</b>
+<i>48</i>&nbsp;                + this.type + &quot; costs &quot; + this.price
+<i>49</i>&nbsp;                + &quot; eats &quot; + this.numberOfFood + &quot; of &quot; + this.food
+<i>50</i>&nbsp;                + &quot; and lives in &quot; + this.accomodation + &quot;\n&quot;;
+<i>51</i>&nbsp;
+<i>52</i>&nbsp;    }
+<i>53</i>&nbsp;
+<i>54</i>&nbsp;    public final void setSpecies(final String newSpecies) {
+<b class="fc"><i>55</i>&nbsp;        this.species = newSpecies;</b>
+<b class="fc"><i>56</i>&nbsp;    }</b>
+<i>57</i>&nbsp;
+<i>58</i>&nbsp;    public final void setPrice(final int newPrice) {
+<b class="fc"><i>59</i>&nbsp;        this.price = newPrice;</b>
+<b class="fc"><i>60</i>&nbsp;    }</b>
+<i>61</i>&nbsp;
+<i>62</i>&nbsp;    public final Types getTypes() {
+<b class="fc"><i>63</i>&nbsp;        return type;</b>
+<i>64</i>&nbsp;    }
+<i>65</i>&nbsp;
+<i>66</i>&nbsp;    public final void setTypes(final Types newType) {
+<b class="fc"><i>67</i>&nbsp;        this.type = newType;</b>
+<b class="fc"><i>68</i>&nbsp;    }</b>
+<i>69</i>&nbsp;
+<i>70</i>&nbsp;    public final FoodTypes getFoodTypes() {
+<b class="fc"><i>71</i>&nbsp;        return food;</b>
+<i>72</i>&nbsp;    }
+<i>73</i>&nbsp;
+<i>74</i>&nbsp;    public final void setFoodTypes(final FoodTypes newFood) {
+<b class="fc"><i>75</i>&nbsp;        this.food = newFood;</b>
+<i>76</i>&nbsp;
+<b class="fc"><i>77</i>&nbsp;    }</b>
+<i>78</i>&nbsp;
+<i>79</i>&nbsp;    public final void setAccomodationTypes(final AccomodationTypes newAccomodation) {
+<b class="fc"><i>80</i>&nbsp;        this.accomodation = newAccomodation;</b>
+<b class="fc"><i>81</i>&nbsp;    }</b>
+<i>82</i>&nbsp;
+<i>83</i>&nbsp;    public int getNumberOfFood() {
+<b class="fc"><i>84</i>&nbsp;        return numberOfFood;</b>
+<i>85</i>&nbsp;    }
+<i>86</i>&nbsp;
+<i>87</i>&nbsp;    public final void setNumberOfFood(final int newNumberOfFood) {
+<b class="fc"><i>88</i>&nbsp;        this.numberOfFood = newNumberOfFood;</b>
+<b class="fc"><i>89</i>&nbsp;    }</b>
+<i>90</i>&nbsp;}
+</div>
+</div>
+
+<div class="footer">
+    
+    <div style="float:right;">generated on 2018-03-15 19:58</div>
+</div>
+</body>
+</html>

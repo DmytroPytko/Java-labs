@@ -8,20 +8,12 @@ public class PetStore {
 
     private List<Pet> pets = new LinkedList();
 
-    public void setPets(List<Pet> pets) {
-        this.pets = pets;
-    }
-
     public List<Pet> getPets() {
         return this.pets;
     }
 
-    public PetStore() {
-    }
-
     public PetStore(List<Pet> pets) {
         this.pets = pets;
-
     }
 
     public void addPet(Pet addPet) {
@@ -42,7 +34,7 @@ public class PetStore {
         return sortByFoodType(searchPetsByType(typeToFind));
     }
 
-    private List<Pet> searchPetsByType(Types typeToFind) {
+    public List<Pet> searchPetsByType(Types typeToFind) {
         List<Pet> result = new LinkedList<>();
         for (Pet pet : pets) {
             if (pet.getTypes().equals(typeToFind)) {
@@ -51,10 +43,5 @@ public class PetStore {
         }
         return result;
     }
-
-    public List<Pet> searchPetByTypeSortedByFoodNumber(Types typeToFind) {
-        return sortByNumberOfFood(searchPetsByType(typeToFind));
-    }
-
 
 }
