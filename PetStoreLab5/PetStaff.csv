@@ -1,0 +1,10 @@
+ species, numberOfFood, price, Types, FoodTypes, AccomodationTypes 
+Fish, 350, 123, FISH, FEED, AQUARIUM. 
+ species, numberOfFood, price, Types, FoodTypes, AccomodationTypes 
+GoldFish, 100, 200, FISH, FEED, AQUARIUM. 
+ species, numberOfFood, price, Types, FoodTypes, AccomodationTypes 
+shark, 302, 400, FISH, FEED, AQUARIUM. 
+ species, numberOfFood, price, Types, FoodTypes, AccomodationTypes 
+Dog, 50, 123, MAMMALS, FELICACIES, CAGE. 
+ species, numberOfFood, price, Types, FoodTypes, AccomodationTypes 
+Cat, 30, 123, MAMMALS, CANNEDFOOD, CAGE. 

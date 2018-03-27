@@ -103,4 +103,22 @@ class PetStoreTest {
         assertEquals("Monkey", result.get(0).getSpecies());
     }
 
+    @Test
+    void writerTest (){
+        petStore.addPet(fish);
+        petStore.addPet(goldFish);
+        petStore.addPet(shark);
+        petStore.addPet(dog);
+        petStore.addPet(cat);
+        petStore.addPet(monkey);
+        petStore.addPet(nemo);
+        petStore.addPet(silverFish);
+        petStore.addPet(ant);
+        petStore.addPet(tigerShark);
+
+        WriterPet writerPet = new WriterPet();
+        writerPet.writeToFile(petStore.getPets());
+
+    }
+
 }

@@ -42,6 +42,7 @@ public class Pet {
 
     }
 
+
     @Override
     public final String toString() {
         return " Pet called " + species + " of type + "
@@ -49,6 +50,14 @@ public class Pet {
                 + " eats " + this.numberOfFood + " of " + this.food
                 + " and lives in " + this.accomodation + "\n";
 
+    }
+
+    public String getHeaders() {
+        return "Species, numberOfFood, price, Types, FoodTypes, AccomodationTypes ";
+    }
+
+    public String toCSV() {
+        return getSpecies() + ", " + getNumberOfFood() + ", " + getPrice() + ", " + getTypes() + ", " + getFoodTypes() + ", " + getAccomodationTypes() + ". ";
     }
 
     public final void setSpecies(final String newSpecies) {
@@ -78,6 +87,10 @@ public class Pet {
 
     public final void setAccomodationTypes(final AccomodationTypes newAccomodation) {
         this.accomodation = newAccomodation;
+    }
+
+    public final AccomodationTypes getAccomodationTypes() {
+        return accomodation;
     }
 
     public int getNumberOfFood() {
