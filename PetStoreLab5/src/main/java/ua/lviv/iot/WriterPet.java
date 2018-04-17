@@ -8,10 +8,10 @@ public class WriterPet {
 
         public final void writeToFile(final List<Pet> pets) {
             try (PrintWriter writer = new PrintWriter("PetStaff.csv file")) {
-                writer.println(pets.get(0).getHeaders());
+//                writer.println(pets.get(0).getHeaders());
                 for (Pet pet : pets) {
 
-                    writer.println(pet.toCSV());
+                    /*writer.println(pet.toCSV());*/
                 }
 
             } catch (IOException e) {

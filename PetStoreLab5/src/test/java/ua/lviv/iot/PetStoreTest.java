@@ -1,10 +1,8 @@
 package ua.lviv.iot;
 
-import com.sun.xml.internal.bind.v2.runtime.reflect.opt.FieldAccessor_Short;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
-import java.lang.reflect.Type;
 import java.util.LinkedList;
 import java.util.List;
 

@@ -1,6 +1,7 @@
 package ua.lviv.iot;
 
 public class Pet {
+    private Integer id;
     private String species;
     private int numberOfFood; // in kgs
     private int price; // in hrn
@@ -8,6 +9,13 @@ public class Pet {
     private FoodTypes food;
     private AccomodationTypes accomodation;
 
+    public Pet(){
+
+    }
+
+    public void setType(Types type) {
+        this.type = type;
+    }
 
     public String getSpecies() {
         return species;
@@ -52,13 +60,13 @@ public class Pet {
 
     }
 
-    public String getHeaders() {
-        return "Species, numberOfFood, price, Types, FoodTypes, AccomodationTypes ";
-    }
-
-    public String toCSV() {
-        return getSpecies() + ", " + getNumberOfFood() + ", " + getPrice() + ", " + getTypes() + ", " + getFoodTypes() + ", " + getAccomodationTypes() + ". ";
-    }
+//    public String getHeaders() {
+//        return "Species, numberOfFood, price, Types, FoodTypes, AccommodationTypes ";
+//    }
+//
+//    public String toCSV() {
+//        return getSpecies() + ", " + getNumberOfFood() + ", " + getPrice() + ", " + getTypes() + ", " + getFoodTypes() + ", " + getAccomodationTypes() + ". ";
+//    }
 
     public final void setSpecies(final String newSpecies) {
         this.species = newSpecies;
@@ -100,4 +108,10 @@ public class Pet {
     public final void setNumberOfFood(final int newNumberOfFood) {
         this.numberOfFood = newNumberOfFood;
     }
+
+    public final Integer getId(){
+        return id;
+    }
+
+    public void setId(Integer id) {this.id = id;}
 }

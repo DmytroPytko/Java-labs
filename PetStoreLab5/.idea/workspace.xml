@@ -57,15 +57,13 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="PetStore.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/ua/lviv/iot/PetStore.java">
+      <file leaf-file-name="JaxRsConfig.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ua/lviv/iot/rest/config/JaxRsConfig.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="14" column="30" lean-forward="false" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
+            <state relative-caret-position="17">
+              <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#279#280#0" expanded="true" />
-                <element signature="e#311#312#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -81,28 +79,78 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="PetService.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ua/lviv/iot/PetService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="72">
+              <caret line="9" column="11" lean-forward="false" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#445#446#0" expanded="true" />
+                <element signature="e#482#483#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AccomodationTypes.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ua/lviv/iot/AccomodationTypes.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="12" lean-forward="false" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PetStore.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ua/lviv/iot/PetStore.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#369#370#0" expanded="true" />
+                <element signature="e#401#402#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="531">
+              <caret line="114" column="10" lean-forward="false" selection-start-line="114" selection-start-column="10" selection-end-line="114" selection-end-column="10" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="Pet.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/ua/lviv/iot/Pet.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="748">
-              <caret line="55" column="17" lean-forward="false" selection-start-line="55" selection-start-column="17" selection-end-line="55" selection-end-column="17" />
+            <state relative-caret-position="119">
+              <caret line="7" column="23" lean-forward="false" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
               <folding>
-                <element signature="e#271#272#0" expanded="true" />
-                <element signature="e#301#302#0" expanded="true" />
-                <element signature="e#330#331#0" expanded="true" />
-                <element signature="e#358#359#0" expanded="true" />
-                <element signature="e#388#389#0" expanded="true" />
-                <element signature="e#415#416#0" expanded="true" />
-                <element signature="e#449#450#0" expanded="true" />
-                <element signature="e#476#477#0" expanded="true" />
-                <element signature="e#526#527#0" expanded="true" />
-                <element signature="e#561#562#0" expanded="true" />
-                <element signature="e#1317#1318#0" expanded="true" />
-                <element signature="e#1408#1409#0" expanded="true" />
-                <element signature="e#1663#1664#0" expanded="true" />
-                <element signature="e#1704#1705#0" expanded="true" />
-                <element signature="e#2319#2320#0" expanded="true" />
-                <element signature="e#2354#2355#0" expanded="true" />
+                <element signature="e#325#326#0" expanded="true" />
+                <element signature="e#357#358#0" expanded="true" />
+                <element signature="e#391#392#0" expanded="true" />
+                <element signature="e#421#422#0" expanded="true" />
+                <element signature="e#450#451#0" expanded="true" />
+                <element signature="e#478#479#0" expanded="true" />
+                <element signature="e#508#509#0" expanded="true" />
+                <element signature="e#535#536#0" expanded="true" />
+                <element signature="e#569#570#0" expanded="true" />
+                <element signature="e#596#597#0" expanded="true" />
+                <element signature="e#646#647#0" expanded="true" />
+                <element signature="e#681#682#0" expanded="true" />
+                <element signature="e#1798#1799#0" expanded="true" />
+                <element signature="e#1839#1840#0" expanded="true" />
+                <element signature="e#2454#2455#0" expanded="true" />
+                <element signature="e#2489#2490#0" expanded="true" />
+                <element signature="e#2714#2715#0" expanded="true" />
+                <element signature="e#2739#2740#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -111,20 +159,8 @@
       <file leaf-file-name="WriterPet.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/ua/lviv/iot/WriterPet.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="10" column="41" lean-forward="false" selection-start-line="10" selection-start-column="41" selection-end-line="10" selection-end-column="41" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PetStaff.csv file" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/PetStaff.csv file">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="14" lean-forward="false" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
+            <state relative-caret-position="187">
+              <caret line="13" column="50" lean-forward="false" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="52" />
               <folding />
             </state>
           </provider>
@@ -133,11 +169,9 @@
       <file leaf-file-name="PetStoreTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/ua/lviv/iot/PetStoreTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1547">
-              <caret line="91" column="1" lean-forward="false" selection-start-line="91" selection-start-column="1" selection-end-line="91" selection-end-column="1" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="68">
+              <caret line="10" column="6" lean-forward="false" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -150,10 +184,15 @@
         <option value="JUnit4 Test Class" />
         <option value="JUnit5 Test Class" />
         <option value="Class" />
+        <option value="FxmlFile" />
       </list>
     </option>
   </component>
   <component name="FindInProjectRecents">
+    <findStrings>
+      <find>per</find>
+      <find>juni</find>
+    </findStrings>
     <replaceStrings>
       <replace />
     </replaceStrings>
@@ -169,18 +208,25 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/test/java/ua/lviv/iot/AccomodationTypesTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/ua/lviv/iot/FoodTypesTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/ua/lviv/iot/TypesTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/ua/lviv/iot/Main.java" />
         <option value="$PROJECT_DIR$/src/test/java/ua/lviv/iot/MainTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/ua/lviv/iot/PetTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ua/lviv/iot/PetStore.java" />
         <option value="$PROJECT_DIR$/src/main/java/ua/lviv/iot/FoodTypes.java" />
+        <option value="$PROJECT_DIR$/src/main/java/rest/config/JaxRsConfig.java" />
         <option value="$PROJECT_DIR$/src/test/java/ua/lviv/iot/PetStoreTest.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/persistense.fxml" />
+        <option value="$PROJECT_DIR$/src/main/resources/persistense.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/ua/lviv/iot/config/JaxRsConfig.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ua/lviv/iot/rest/config/JaxRsConfig.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ua/lviv/iot/PetStoreService.java" />
         <option value="$PROJECT_DIR$/src/main/java/ua/lviv/iot/WriterPet.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ua/lviv/iot/PetStore.java" />
         <option value="$PROJECT_DIR$/src/main/java/ua/lviv/iot/Pet.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/ua/lviv/iot/PetService.java" />
       </list>
     </option>
   </component>
@@ -188,7 +234,6 @@
     <option name="generalSettings">
       <MavenGeneralSettings>
         <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
-        <option name="workOffline" value="true" />
       </MavenGeneralSettings>
     </option>
     <option name="importingSettings">
@@ -202,17 +247,32 @@
       <expand>
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="PetStore" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="work" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="work" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="work" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="work" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+          <item name="jetty" type="36feed69:MavenProjectsStructure$PluginNode" />
         </path>
       </expand>
       <select />
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="6" />
-    <option name="y" value="3" />
-    <option name="width" value="1260" />
-    <option name="height" value="720" />
+    <option name="x" value="-7" />
+    <option name="width" value="782" />
+    <option name="height" value="831" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -229,9 +289,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="AndroidView" />
-      <pane id="PackagesPane" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -290,7 +349,8 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -298,7 +358,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="E:/Java language/rest_sample" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/src/test/java" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
   </component>
@@ -306,8 +366,15 @@
     <key name="CreateTestDialog.RecentsKey">
       <recent name="ua.lviv.iot" />
     </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+      <recent name="ua.lviv.iot" />
+    </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Intelijidea projects\PetStore\src\main\resources\META-INF" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -322,27 +389,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.PetStoreTest.writerTest">
-    <configuration name="All in PetStore (3)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="PetStore" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="package" />
-      <option name="VM_PARAMETERS" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-    </configuration>
+  <component name="RunManager" selected="JUnit.PetStoreTest">
     <configuration name="All in PetStore (4)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="PetStore" />
@@ -372,6 +419,31 @@
       <option name="MAIN_CLASS_NAME" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="package" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="PetStoreTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="ua.lviv.iot.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="PetStore" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="ua.lviv.iot" />
+      <option name="MAIN_CLASS_NAME" value="ua.lviv.iot.PetStoreTest" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -449,19 +521,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JUnit.All in PetStore (3)" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.All in PetStore (4)" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.PetStoreTest.sortByNumberOfFood" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.All in PetStore" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.PetStoreTest.writerTest" />
+      <item index="0" class="java.lang.String" itemvalue="JUnit.All in PetStore (4)" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.PetStoreTest.sortByNumberOfFood" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.All in PetStore" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.PetStoreTest.writerTest" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.PetStoreTest" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.PetStoreTest.writerTest" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.All in PetStore" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.PetStoreTest.sortByNumberOfFood" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.All in PetStore (4)" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.All in PetStore (3)" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.PetStoreTest" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.PetStoreTest.writerTest" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.All in PetStore" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.PetStoreTest.sortByNumberOfFood" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.All in PetStore (4)" />
       </list>
     </recent_temporary>
   </component>
@@ -482,8 +554,8 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="PetStoreTest_writerTest - 2018.03.22 at 13h 05m 07s.xml">
-      <configuration name="PetStoreTest.writerTest" configurationId="JUnit" />
+    <history-entry file="PetStoreTest - 2018.04.17 at 15h 09m 37s.xml">
+      <configuration name="PetStoreTest" configurationId="JUnit" />
     </history-entry>
     <history-entry file="PetStoreTest_writerTest - 2018.03.22 at 13h 12m 21s.xml">
       <configuration name="PetStoreTest.writerTest" configurationId="JUnit" />
@@ -523,23 +595,25 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1552" height="840" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32892805" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32892805" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33920705" sideWeight="0.50268096" order="0" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.060321715" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.48311308" sideWeight="0.49731904" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19168901" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.7298091" sideWeight="0.49731904" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32892805" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12686567" sideWeight="0.4960981" order="4" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1461126" sideWeight="0.4960981" order="4" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39941263" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -547,41 +621,11 @@
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="combo" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32892805" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.110341154" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
+      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.110341154" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32892805" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
-    <layout-to-restore>
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33920705" sideWeight="0.50268096" order="0" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.060321715" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="combo" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32892805" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32892805" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25403818" sideWeight="0.49731904" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3297587" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23324397" sideWeight="0.5" order="4" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
-    </layout-to-restore>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -591,7 +635,7 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/test/java/ua/lviv/iot/PetStoreTest.java</url>
-          <line>106</line>
+          <line>104</line>
           <properties class="ua.lviv.iot.PetStoreTest" method="writerTest">
             <option name="EMULATED" value="true" />
           </properties>
@@ -612,356 +656,28 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/ua/lviv/iot/Pet.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/ua/lviv/iot/rest/config/JaxRsConfig.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="16" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="16" />
-          <folding>
-            <element signature="e#271#272#0" expanded="true" />
-            <element signature="e#301#302#0" expanded="true" />
-            <element signature="e#330#331#0" expanded="true" />
-            <element signature="e#358#359#0" expanded="true" />
-            <element signature="e#388#389#0" expanded="true" />
-            <element signature="e#415#416#0" expanded="true" />
-            <element signature="e#449#450#0" expanded="true" />
-            <element signature="e#476#477#0" expanded="true" />
-            <element signature="e#526#527#0" expanded="true" />
-            <element signature="e#561#562#0" expanded="true" />
-            <element signature="e#1317#1318#0" expanded="true" />
-            <element signature="e#1408#1409#0" expanded="true" />
-            <element signature="e#1663#1664#0" expanded="true" />
-            <element signature="e#1704#1705#0" expanded="true" />
-            <element signature="e#2319#2320#0" expanded="true" />
-            <element signature="e#2354#2355#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ua/lviv/iot/PetStore.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="6" column="21" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="21" />
+        <state relative-caret-position="238">
+          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#279#280#0" expanded="true" />
-            <element signature="e#311#312#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="8" lean-forward="true" selection-start-line="8" selection-start-column="4" selection-end-line="10" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ua/lviv/iot/Main.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/ua/lviv/iot/Pet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="16" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="16" />
-          <folding>
-            <element signature="e#271#272#0" expanded="true" />
-            <element signature="e#301#302#0" expanded="true" />
-            <element signature="e#330#331#0" expanded="true" />
-            <element signature="e#358#359#0" expanded="true" />
-            <element signature="e#388#389#0" expanded="true" />
-            <element signature="e#415#416#0" expanded="true" />
-            <element signature="e#449#450#0" expanded="true" />
-            <element signature="e#476#477#0" expanded="true" />
-            <element signature="e#526#527#0" expanded="true" />
-            <element signature="e#561#562#0" expanded="true" />
-            <element signature="e#1317#1318#0" expanded="true" />
-            <element signature="e#1408#1409#0" expanded="true" />
-            <element signature="e#1663#1664#0" expanded="true" />
-            <element signature="e#1704#1705#0" expanded="true" />
-            <element signature="e#2319#2320#0" expanded="true" />
-            <element signature="e#2354#2355#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/ua/lviv/iot/PetTest.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/ua/lviv/iot/PetStore.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="6" column="21" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="21" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#279#280#0" expanded="true" />
-            <element signature="e#311#312#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="35" lean-forward="false" selection-start-line="7" selection-start-column="35" selection-end-line="7" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ua/lviv/iot/Main.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/ua/lviv/iot/PetStore.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="6" column="21" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="21" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#279#280#0" expanded="true" />
-            <element signature="e#311#312#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2822">
-          <caret line="166" column="10" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="166" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ua/lviv/iot/Pet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="23" lean-forward="false" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
-          <folding>
-            <element signature="e#271#272#0" expanded="true" />
-            <element signature="e#301#302#0" expanded="true" />
-            <element signature="e#330#331#0" expanded="true" />
-            <element signature="e#358#359#0" expanded="true" />
-            <element signature="e#388#389#0" expanded="true" />
-            <element signature="e#415#416#0" expanded="true" />
-            <element signature="e#449#450#0" expanded="true" />
-            <element signature="e#476#477#0" expanded="true" />
-            <element signature="e#526#527#0" expanded="true" />
-            <element signature="e#561#562#0" expanded="true" />
-            <element signature="e#1317#1318#0" expanded="true" />
-            <element signature="e#1408#1409#0" expanded="true" />
-            <element signature="e#1663#1664#0" expanded="true" />
-            <element signature="e#1704#1705#0" expanded="true" />
-            <element signature="e#2319#2320#0" expanded="true" />
-            <element signature="e#2354#2355#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ua/lviv/iot/Main.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/ua/lviv/iot/Pet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="16" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="16" />
-          <folding>
-            <element signature="e#271#272#0" expanded="true" />
-            <element signature="e#301#302#0" expanded="true" />
-            <element signature="e#330#331#0" expanded="true" />
-            <element signature="e#358#359#0" expanded="true" />
-            <element signature="e#388#389#0" expanded="true" />
-            <element signature="e#415#416#0" expanded="true" />
-            <element signature="e#449#450#0" expanded="true" />
-            <element signature="e#476#477#0" expanded="true" />
-            <element signature="e#526#527#0" expanded="true" />
-            <element signature="e#561#562#0" expanded="true" />
-            <element signature="e#1317#1318#0" expanded="true" />
-            <element signature="e#1408#1409#0" expanded="true" />
-            <element signature="e#1663#1664#0" expanded="true" />
-            <element signature="e#1704#1705#0" expanded="true" />
-            <element signature="e#2319#2320#0" expanded="true" />
-            <element signature="e#2354#2355#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ua/lviv/iot/PetStore.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="6" column="21" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="21" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#279#280#0" expanded="true" />
-            <element signature="e#311#312#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2822">
-          <caret line="166" column="10" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="166" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ua/lviv/iot/Main.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/ua/lviv/iot/Pet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="16" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="16" />
-          <folding>
-            <element signature="e#271#272#0" expanded="true" />
-            <element signature="e#301#302#0" expanded="true" />
-            <element signature="e#330#331#0" expanded="true" />
-            <element signature="e#358#359#0" expanded="true" />
-            <element signature="e#388#389#0" expanded="true" />
-            <element signature="e#415#416#0" expanded="true" />
-            <element signature="e#449#450#0" expanded="true" />
-            <element signature="e#476#477#0" expanded="true" />
-            <element signature="e#526#527#0" expanded="true" />
-            <element signature="e#561#562#0" expanded="true" />
-            <element signature="e#1317#1318#0" expanded="true" />
-            <element signature="e#1408#1409#0" expanded="true" />
-            <element signature="e#1663#1664#0" expanded="true" />
-            <element signature="e#1704#1705#0" expanded="true" />
-            <element signature="e#2319#2320#0" expanded="true" />
-            <element signature="e#2354#2355#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ua/lviv/iot/PetStore.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="6" column="21" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="21" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#279#280#0" expanded="true" />
-            <element signature="e#311#312#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="35" lean-forward="false" selection-start-line="7" selection-start-column="35" selection-end-line="7" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ua/lviv/iot/Main.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/ua/lviv/iot/Pet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="15" lean-forward="false" selection-start-line="2" selection-start-column="15" selection-end-line="2" selection-end-column="15" />
-          <folding>
-            <element signature="e#271#272#0" expanded="true" />
-            <element signature="e#301#302#0" expanded="true" />
-            <element signature="e#330#331#0" expanded="true" />
-            <element signature="e#358#359#0" expanded="true" />
-            <element signature="e#388#389#0" expanded="true" />
-            <element signature="e#415#416#0" expanded="true" />
-            <element signature="e#449#450#0" expanded="true" />
-            <element signature="e#476#477#0" expanded="true" />
-            <element signature="e#526#527#0" expanded="true" />
-            <element signature="e#561#562#0" expanded="true" />
-            <element signature="e#1317#1318#0" expanded="true" />
-            <element signature="e#1408#1409#0" expanded="true" />
-            <element signature="e#1663#1664#0" expanded="true" />
-            <element signature="e#1704#1705#0" expanded="true" />
-            <element signature="e#2319#2320#0" expanded="true" />
-            <element signature="e#2354#2355#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/ua/lviv/iot/PetTest.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/ua/lviv/iot/PetStore.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="6" column="17" lean-forward="false" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#279#280#0" expanded="true" />
-            <element signature="e#311#312#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="33" lean-forward="true" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ua/lviv/iot/Main.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/ua/lviv/iot/Pet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1258">
-          <caret line="74" column="16" lean-forward="false" selection-start-line="74" selection-start-column="16" selection-end-line="74" selection-end-column="16" />
-          <folding>
-            <element signature="e#271#272#0" expanded="true" />
-            <element signature="e#301#302#0" expanded="true" />
-            <element signature="e#330#331#0" expanded="true" />
-            <element signature="e#358#359#0" expanded="true" />
-            <element signature="e#388#389#0" expanded="true" />
-            <element signature="e#415#416#0" expanded="true" />
-            <element signature="e#449#450#0" expanded="true" />
-            <element signature="e#476#477#0" expanded="true" />
-            <element signature="e#526#527#0" expanded="true" />
-            <element signature="e#561#562#0" expanded="true" />
-            <element signature="e#1317#1318#0" expanded="true" />
-            <element signature="e#1408#1409#0" expanded="true" />
-            <element signature="e#1663#1664#0" expanded="true" />
-            <element signature="e#1704#1705#0" expanded="true" />
-            <element signature="e#2319#2320#0" expanded="true" />
-            <element signature="e#2354#2355#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="17" lean-forward="true" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ua/lviv/iot/Main.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/ua/lviv/iot/PetStore.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="29" column="59" lean-forward="true" selection-start-line="29" selection-start-column="59" selection-end-line="29" selection-end-column="59" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#279#280#0" expanded="true" />
-            <element signature="e#311#312#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="37" lean-forward="true" selection-start-line="6" selection-start-column="37" selection-end-line="6" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/Program Files/jdk1.8.0_151(java)/src.zip!/java/util/function/Function.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="141">
-          <caret line="48" column="6" lean-forward="false" selection-start-line="48" selection-start-column="6" selection-end-line="48" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/Temp1_Automarket.zip/Automarket/src/test/java/ua/lviv/iot/AutomarketTest.java" />
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="24" lean-forward="false" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ua/lviv/iot/Main.java" />
-    <entry file="file://$PROJECT_DIR$/src/test/java/ua/lviv/iot/MainTest.java" />
-    <entry file="file://$PROJECT_DIR$/src/test/java/ua/lviv/iot/TypesTest.java" />
-    <entry file="file://$PROJECT_DIR$/src/test/java/ua/lviv/iot/FoodTypesTest.java" />
-    <entry file="file://$PROJECT_DIR$/src/test/java/ua/lviv/iot/AccomodationTypesTest.java" />
-    <entry file="file://$PROJECT_DIR$/src/test/java/ua/lviv/iot/PetTest.java" />
-    <entry file="file://E:/Lab 6/src/main/java/Penthouse.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/ua/lviv/iot/AccomodationTypes.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
-          <caret line="2" column="29" lean-forward="false" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="29" />
+          <caret line="2" column="12" lean-forward="false" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2567">
+          <caret line="151" column="10" lean-forward="false" selection-start-line="151" selection-start-column="10" selection-end-line="151" selection-end-column="10" />
           <folding />
         </state>
       </provider>
@@ -974,25 +690,198 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/PetStore.iml">
+    <entry file="file://$PROJECT_DIR$/src/main/java/ua/lviv/iot/Pet.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="850">
+          <caret line="63" column="34" lean-forward="false" selection-start-line="63" selection-start-column="34" selection-end-line="63" selection-end-column="34" />
+          <folding>
+            <element signature="e#325#326#0" expanded="true" />
+            <element signature="e#357#358#0" expanded="true" />
+            <element signature="e#391#392#0" expanded="true" />
+            <element signature="e#421#422#0" expanded="true" />
+            <element signature="e#450#451#0" expanded="true" />
+            <element signature="e#478#479#0" expanded="true" />
+            <element signature="e#508#509#0" expanded="true" />
+            <element signature="e#535#536#0" expanded="true" />
+            <element signature="e#569#570#0" expanded="true" />
+            <element signature="e#596#597#0" expanded="true" />
+            <element signature="e#646#647#0" expanded="true" />
+            <element signature="e#681#682#0" expanded="true" />
+            <element signature="e#1798#1799#0" expanded="true" />
+            <element signature="e#1839#1840#0" expanded="true" />
+            <element signature="e#2454#2455#0" expanded="true" />
+            <element signature="e#2489#2490#0" expanded="true" />
+            <element signature="e#2714#2715#0" expanded="true" />
+            <element signature="e#2739#2740#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ua/lviv/iot/FoodTypes.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/ua/lviv/iot/WriterPet.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+        <state relative-caret-position="136">
+          <caret line="10" column="41" lean-forward="false" selection-start-line="10" selection-start-column="41" selection-end-line="10" selection-end-column="41" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/PetStaff.csv">
+    <entry file="file://$PROJECT_DIR$/src/main/java/ua/lviv/iot/PetService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="43" column="1" lean-forward="true" selection-start-line="43" selection-start-column="1" selection-end-line="43" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#445#446#0" expanded="true" />
+            <element signature="e#482#483#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ua/lviv/iot/PetStore.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="20" lean-forward="false" selection-start-line="0" selection-start-column="20" selection-end-line="0" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#369#370#0" expanded="true" />
+            <element signature="e#401#402#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ua/lviv/iot/rest/config/JaxRsConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ua/lviv/iot/AccomodationTypes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="12" lean-forward="false" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2567">
+          <caret line="151" column="10" lean-forward="false" selection-start-line="151" selection-start-column="10" selection-end-line="151" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ua/lviv/iot/Types.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="15" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ua/lviv/iot/Pet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="850">
+          <caret line="63" column="34" lean-forward="false" selection-start-line="63" selection-start-column="34" selection-end-line="63" selection-end-column="34" />
+          <folding>
+            <element signature="e#325#326#0" expanded="true" />
+            <element signature="e#357#358#0" expanded="true" />
+            <element signature="e#391#392#0" expanded="true" />
+            <element signature="e#421#422#0" expanded="true" />
+            <element signature="e#450#451#0" expanded="true" />
+            <element signature="e#478#479#0" expanded="true" />
+            <element signature="e#508#509#0" expanded="true" />
+            <element signature="e#535#536#0" expanded="true" />
+            <element signature="e#569#570#0" expanded="true" />
+            <element signature="e#596#597#0" expanded="true" />
+            <element signature="e#646#647#0" expanded="true" />
+            <element signature="e#681#682#0" expanded="true" />
+            <element signature="e#1798#1799#0" expanded="true" />
+            <element signature="e#1839#1840#0" expanded="true" />
+            <element signature="e#2454#2455#0" expanded="true" />
+            <element signature="e#2489#2490#0" expanded="true" />
+            <element signature="e#2714#2715#0" expanded="true" />
+            <element signature="e#2739#2740#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ua/lviv/iot/WriterPet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="10" column="41" lean-forward="false" selection-start-line="10" selection-start-column="41" selection-end-line="10" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ua/lviv/iot/PetService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="43" column="1" lean-forward="true" selection-start-line="43" selection-start-column="1" selection-end-line="43" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#445#446#0" expanded="true" />
+            <element signature="e#482#483#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ua/lviv/iot/PetStore.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#369#370#0" expanded="true" />
+            <element signature="e#401#402#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ua/lviv/iot/Types.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="15" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ua/lviv/iot/Pet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="850">
+          <caret line="63" column="34" lean-forward="false" selection-start-line="63" selection-start-column="34" selection-end-line="63" selection-end-column="34" />
+          <folding>
+            <element signature="e#325#326#0" expanded="true" />
+            <element signature="e#357#358#0" expanded="true" />
+            <element signature="e#391#392#0" expanded="true" />
+            <element signature="e#421#422#0" expanded="true" />
+            <element signature="e#450#451#0" expanded="true" />
+            <element signature="e#478#479#0" expanded="true" />
+            <element signature="e#508#509#0" expanded="true" />
+            <element signature="e#535#536#0" expanded="true" />
+            <element signature="e#569#570#0" expanded="true" />
+            <element signature="e#596#597#0" expanded="true" />
+            <element signature="e#646#647#0" expanded="true" />
+            <element signature="e#681#682#0" expanded="true" />
+            <element signature="e#1798#1799#0" expanded="true" />
+            <element signature="e#1839#1840#0" expanded="true" />
+            <element signature="e#2454#2455#0" expanded="true" />
+            <element signature="e#2489#2490#0" expanded="true" />
+            <element signature="e#2714#2715#0" expanded="true" />
+            <element signature="e#2739#2740#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ua/lviv/iot/PetStoreTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1547">
+          <caret line="91" column="1" lean-forward="false" selection-start-line="91" selection-start-column="1" selection-end-line="91" selection-end-column="1" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1002,8 +891,43 @@
           <caret line="14" column="30" lean-forward="false" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#279#280#0" expanded="true" />
-            <element signature="e#311#312#0" expanded="true" />
+            <element signature="e#369#370#0" expanded="true" />
+            <element signature="e#401#402#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ua/lviv/iot/Types.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="15" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ua/lviv/iot/Pet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1071">
+          <caret line="63" column="34" lean-forward="false" selection-start-line="63" selection-start-column="34" selection-end-line="63" selection-end-column="34" />
+          <folding>
+            <element signature="e#325#326#0" expanded="true" />
+            <element signature="e#357#358#0" expanded="true" />
+            <element signature="e#391#392#0" expanded="true" />
+            <element signature="e#421#422#0" expanded="true" />
+            <element signature="e#450#451#0" expanded="true" />
+            <element signature="e#478#479#0" expanded="true" />
+            <element signature="e#508#509#0" expanded="true" />
+            <element signature="e#535#536#0" expanded="true" />
+            <element signature="e#569#570#0" expanded="true" />
+            <element signature="e#596#597#0" expanded="true" />
+            <element signature="e#646#647#0" expanded="true" />
+            <element signature="e#681#682#0" expanded="true" />
+            <element signature="e#1798#1799#0" expanded="true" />
+            <element signature="e#1839#1840#0" expanded="true" />
+            <element signature="e#2454#2455#0" expanded="true" />
+            <element signature="e#2489#2490#0" expanded="true" />
+            <element signature="e#2714#2715#0" expanded="true" />
+            <element signature="e#2739#2740#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1012,33 +936,68 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1547">
           <caret line="91" column="1" lean-forward="false" selection-start-line="91" selection-start-column="1" selection-end-line="91" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PetStaff.csv file">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="14" lean-forward="false" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ua/lviv/iot/WriterPet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="10" column="41" lean-forward="false" selection-start-line="10" selection-start-column="41" selection-end-line="10" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ua/lviv/iot/PetStore.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="14" column="30" lean-forward="false" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#369#370#0" expanded="true" />
+            <element signature="e#401#402#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ua/lviv/iot/Types.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="15" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/ua/lviv/iot/Pet.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="748">
-          <caret line="55" column="17" lean-forward="false" selection-start-line="55" selection-start-column="17" selection-end-line="55" selection-end-column="17" />
+        <state relative-caret-position="850">
+          <caret line="63" column="34" lean-forward="true" selection-start-line="63" selection-start-column="34" selection-end-line="63" selection-end-column="34" />
           <folding>
-            <element signature="e#271#272#0" expanded="true" />
-            <element signature="e#301#302#0" expanded="true" />
-            <element signature="e#330#331#0" expanded="true" />
-            <element signature="e#358#359#0" expanded="true" />
-            <element signature="e#388#389#0" expanded="true" />
-            <element signature="e#415#416#0" expanded="true" />
-            <element signature="e#449#450#0" expanded="true" />
-            <element signature="e#476#477#0" expanded="true" />
-            <element signature="e#526#527#0" expanded="true" />
-            <element signature="e#561#562#0" expanded="true" />
-            <element signature="e#1317#1318#0" expanded="true" />
-            <element signature="e#1408#1409#0" expanded="true" />
-            <element signature="e#1663#1664#0" expanded="true" />
-            <element signature="e#1704#1705#0" expanded="true" />
-            <element signature="e#2319#2320#0" expanded="true" />
-            <element signature="e#2354#2355#0" expanded="true" />
+            <element signature="e#325#326#0" expanded="true" />
+            <element signature="e#357#358#0" expanded="true" />
+            <element signature="e#391#392#0" expanded="true" />
+            <element signature="e#421#422#0" expanded="true" />
+            <element signature="e#450#451#0" expanded="true" />
+            <element signature="e#478#479#0" expanded="true" />
+            <element signature="e#508#509#0" expanded="true" />
+            <element signature="e#535#536#0" expanded="true" />
+            <element signature="e#569#570#0" expanded="true" />
+            <element signature="e#596#597#0" expanded="true" />
+            <element signature="e#646#647#0" expanded="true" />
+            <element signature="e#681#682#0" expanded="true" />
+            <element signature="e#1798#1799#0" expanded="true" />
+            <element signature="e#1839#1840#0" expanded="true" />
+            <element signature="e#2454#2455#0" expanded="true" />
+            <element signature="e#2489#2490#0" expanded="true" />
+            <element signature="e#2714#2715#0" expanded="true" />
+            <element signature="e#2739#2740#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1047,6 +1006,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
           <caret line="3" column="14" lean-forward="false" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ua/lviv/iot/PetStoreTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1547">
+          <caret line="91" column="1" lean-forward="false" selection-start-line="91" selection-start-column="1" selection-end-line="91" selection-end-column="1" />
           <folding />
         </state>
       </provider>
@@ -1055,8 +1021,203 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="10" column="41" lean-forward="false" selection-start-line="10" selection-start-column="41" selection-end-line="10" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ua/lviv/iot/PetStore.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="30" lean-forward="false" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#369#370#0" expanded="true" />
+            <element signature="e#401#402#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ua/lviv/iot/Types.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="15" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ua/lviv/iot/Pet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1155">
+          <caret line="55" column="17" lean-forward="false" selection-start-line="55" selection-start-column="17" selection-end-line="55" selection-end-column="17" />
+          <folding>
+            <element signature="e#325#326#0" expanded="true" />
+            <element signature="e#357#358#0" expanded="true" />
+            <element signature="e#391#392#0" expanded="true" />
+            <element signature="e#421#422#0" expanded="true" />
+            <element signature="e#450#451#0" expanded="true" />
+            <element signature="e#478#479#0" expanded="true" />
+            <element signature="e#508#509#0" expanded="true" />
+            <element signature="e#535#536#0" expanded="true" />
+            <element signature="e#569#570#0" expanded="true" />
+            <element signature="e#596#597#0" expanded="true" />
+            <element signature="e#646#647#0" expanded="true" />
+            <element signature="e#681#682#0" expanded="true" />
+            <element signature="e#1798#1799#0" expanded="true" />
+            <element signature="e#1839#1840#0" expanded="true" />
+            <element signature="e#2454#2455#0" expanded="true" />
+            <element signature="e#2489#2490#0" expanded="true" />
+            <element signature="e#2714#2715#0" expanded="true" />
+            <element signature="e#2739#2740#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ua/lviv/iot/WriterPet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="10" column="41" lean-forward="false" selection-start-line="10" selection-start-column="41" selection-end-line="10" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ua/lviv/iot/PetStoreTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1911">
+          <caret line="91" column="1" lean-forward="false" selection-start-line="91" selection-start-column="1" selection-end-line="91" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PetStaff.csv file">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="3" column="14" lean-forward="false" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/persistense.fxml" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/META-INF/persistense.xml" />
+    <entry file="file://$PROJECT_DIR$/PetStaff.csv file">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="14" lean-forward="false" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PetStaff.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ua/lviv/iot/PetStoreTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="10" column="6" lean-forward="false" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ua/lviv/iot/WriterPet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="13" column="50" lean-forward="false" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="52" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ua/lviv/iot/rest/config/JaxRsConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ua/lviv/iot/FoodTypes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="12" lean-forward="false" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ua/lviv/iot/AccomodationTypes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="12" lean-forward="false" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ua/lviv/iot/Types.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="15" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ua/lviv/iot/PetStore.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#369#370#0" expanded="true" />
+            <element signature="e#401#402#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="531">
+          <caret line="114" column="10" lean-forward="false" selection-start-line="114" selection-start-column="10" selection-end-line="114" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ua/lviv/iot/Pet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="23" lean-forward="false" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
+          <folding>
+            <element signature="e#325#326#0" expanded="true" />
+            <element signature="e#357#358#0" expanded="true" />
+            <element signature="e#391#392#0" expanded="true" />
+            <element signature="e#421#422#0" expanded="true" />
+            <element signature="e#450#451#0" expanded="true" />
+            <element signature="e#478#479#0" expanded="true" />
+            <element signature="e#508#509#0" expanded="true" />
+            <element signature="e#535#536#0" expanded="true" />
+            <element signature="e#569#570#0" expanded="true" />
+            <element signature="e#596#597#0" expanded="true" />
+            <element signature="e#646#647#0" expanded="true" />
+            <element signature="e#681#682#0" expanded="true" />
+            <element signature="e#1798#1799#0" expanded="true" />
+            <element signature="e#1839#1840#0" expanded="true" />
+            <element signature="e#2454#2455#0" expanded="true" />
+            <element signature="e#2489#2490#0" expanded="true" />
+            <element signature="e#2714#2715#0" expanded="true" />
+            <element signature="e#2739#2740#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ua/lviv/iot/PetService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="9" column="11" lean-forward="false" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#445#446#0" expanded="true" />
+            <element signature="e#482#483#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1140,6 +1301,8 @@
   </component>
   <component name="mavenExecuteGoalHistory">
     <option value="$PROJECT_DIR$" />
+    <option value="clean package jetty:run" />
+    <option value="clean package" />
     <option value="site" />
     <option value="test site" />
     <option value="java --version" />

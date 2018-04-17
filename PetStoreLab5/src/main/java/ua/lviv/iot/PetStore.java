@@ -3,14 +3,21 @@ package ua.lviv.iot;
 import java.util.Comparator;
 import java.util.LinkedList;
 import java.util.List;
+import java.util.Map;
 
 public class PetStore {
 
-    private List<Pet> pets = new LinkedList();
+
+
+    private List<Pet> pets = new LinkedList<>();
+
+    private Map<Integer, Pet> petMap;
 
     public List<Pet> getPets() {
         return this.pets;
     }
+
+    public PetStore(){}
 
     public PetStore(List<Pet> pets) {
         this.pets = pets;
@@ -43,5 +50,7 @@ public class PetStore {
         }
         return result;
     }
+
+
 
 }
