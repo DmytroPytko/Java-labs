@@ -1,12 +1,24 @@
 package ua.lviv.iot;
 
+import javax.persistence.*;
+
+@Entity
 public class Pet {
+    @GeneratedValue(strategy = GenerationType.IDENTITY)
+    @Id
+    @Column
     private Integer id;
+    @Column
     private String species;
+    @Column
     private int numberOfFood; // in kgs
+    @Column
     private int price; // in hrn
+    @Column
     private Types type;
+    @Column
     private FoodTypes food;
+    @Column
     private AccomodationTypes accomodation;
 
     public Pet(){
