@@ -1,0 +1,7 @@
+ua\lviv\iot\andriy\persistence\dao\IDao.class
+ua\lviv\iot\andriy\persistence\dao\PetDaoImpl.class
+ua\lviv\iot\andriy\rest\config\JaxRsConfig.class
+ua\lviv\iot\andriy\persistence\dao\AbstractDao.class
+ua\lviv\iot\andriy\persistence\dao\PetDao.class
+ua\lviv\iot\andriy\model\Pet.class
+ua\lviv\iot\andriy\rest\service\Server.class
